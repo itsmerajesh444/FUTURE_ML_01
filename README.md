@@ -4,8 +4,8 @@
 # 🛍️ Retail Analytics & Sales Forecasting
 
 **Project ID:** 2B765  
-**Team:** Strawberry Lab  
-**Repository:** [Retail-Analytics-And-Sales-Forecasting-2B765](https://github.com/ShamScripts/Retail-Analytics-And-Sales-Forecasting-2B765)
+**Team:** Thippana Rajesh
+**Repository:** [Retail-Analytics-And-Sales-Forecasting-2B765]([itsmerajesh444/FUTURE_ML_01](https://github.com/itsmerajesh444/FUTURE_ML_01) 
 
 ---
 
@@ -88,7 +88,7 @@ Easily deployable on:
 
 ## 📃 License
 
-MIT License © SHAMBHAVI JHA
+MIT License © THIPPANA RAJESH
 See `LICENSE` for more details.
 
 ---
@@ -103,6 +103,6 @@ Pull requests and improvements are welcome! For major changes, please open an is
 
 For inquiries, feel free to reach out via:
 
-- [LinkedIn](https://www.linkedin.com/in/shamscript009)  
-- [Gmail](mailto:f20230009@dubai.bits-pilani.ac.in)
+- [LinkedIn](https://www.linkedin.com/in/rajesh-thippana-589850324)  
+- [Gmail](thippanarajesh5@gmail.com)
 
