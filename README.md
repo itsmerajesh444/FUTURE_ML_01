@@ -1,11 +1,11 @@
 # Retail-Analytics-And-Sales-Forecasting-2B744
- Retail Analytics & Sales Forecasting (ID: 2B744)
+ Retail Analytics & Sales Forecasting (ID: 2B765)
 
 # 🛍️ Retail Analytics & Sales Forecasting
 
 **Project ID:** 2B765  
 **Team:** Thippana Rajesh
-**Repository:** [Retail-Analytics-And-Sales-Forecasting-2B765]([itsmerajesh444/FUTURE_ML_01](https://github.com/itsmerajesh444/FUTURE_ML_01)) 
+**Repository:** [Retail-Analytics-And-Sales-Forecasting-2B765]([itsmerajesh444/FUTURE_ML_01](https://github.com/itsmerajesh444/FUTURE_ML_01) 
 
 ---
 
@@ -67,7 +67,7 @@ You can test predictions by entering:
 - `Item MRP`: 150
 - `Outlet Type`: Supermarket Type2
 - `Outlet Size`: Medium
-- `Established`: 2025
+- `Established`: 2005
 
 Or upload a CSV for batch predictions with:
 ```
